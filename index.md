@@ -10,6 +10,6 @@ So all that you need to do is start Trac'ing your activity and get on with it - 
 
 ### Contact Us
 
-For any issues related to Trac! or if you wish to contact us please email your queries to muditgulati@gmail.com(developer)
+For any issues related to Trac! or if you wish to contact us please email your queries to ***muditgulati@gmail.com***(developer)
 
 
